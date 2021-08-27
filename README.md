@@ -2,12 +2,12 @@
 I want pure white or black freitag messenger bag
 
 ## Requirements
-python  
-opencv  
-tensorflow  
-teachable machine  
-selenium  
-bs4  
+- python  
+- opencv  
+- tensorflow  
+- teachable machine  
+- selenium  
+- bs4  
 
 ## Strategy
 1. Collect pictures of patterned bag and non-patterned bag
