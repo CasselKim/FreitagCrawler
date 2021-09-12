@@ -14,3 +14,7 @@ I want pure white or black freitag messenger bag
 2. Train model with teachable machine
 3. Capture images from freitag official homepage and predict if it is patterned
 4. If the bag is non-patterned, Buy it
+
+## Progress
+Stopped because of legal problems  
+(Last Time sleep : 35s - lasted during 8 hour 20 min)  
